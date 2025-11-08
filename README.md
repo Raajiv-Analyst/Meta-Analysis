@@ -6,6 +6,9 @@ An interactive Power BI dashboard for comprehensive analysis of Meta (Facebook &
 
 This Power BI dashboard provides a comprehensive analytics solution for monitoring and optimizing Meta advertising campaigns across Facebook and Instagram. The dashboard enables marketing teams to track key performance indicators, analyze audience demographics, understand geographic reach, and make data-driven decisions to maximize campaign ROI.
 
+### 🔗 Live Dashboard
+**[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9)**
+
 **Key Objectives:**
 - Monitor real-time advertising performance metrics
 - Analyze audience engagement across demographics and geography
