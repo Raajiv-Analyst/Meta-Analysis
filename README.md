@@ -68,7 +68,7 @@ This Power BI dashboard provides a comprehensive analytics solution for monitori
 ![Facebook Dashboard](https://github.com/Raajiv-Analyst/Meta-Analysis/blob/main/Meta-Ad-Performance-Dashboard%20Page-1.png)
 
 ### Instagram Performance Dashboard
-![Instagram Dashboard]()
+![Instagram Dashboard](https://github.com/Raajiv-Analyst/Meta-Analysis/blob/main/Meta-Ad-Performance-Dashboard%20Page-2.png)
 
 ### 🔗 Live Dashboard
 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9)**
